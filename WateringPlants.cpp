@@ -21,4 +21,5 @@ int wateringPlants(vector<int>& plants, int capacity) {
 
 int main() {
     return 0;
+    return 0;
 }
